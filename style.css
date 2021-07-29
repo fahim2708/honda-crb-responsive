@@ -1,8 +1,15 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* common style */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .purchase-btn{
     background-color: #E76F51;
     color: white;
 }
-
 .modal-bg{
     background-color: #ecf0f1;
     color: rgb(235, 42, 42);
@@ -13,4 +20,14 @@
   }
 .fa-star, .fa-star-half-alt{
       color: salmon;
+  }
+  .header-p{
+      color: #bdc3c7;
+  }
+
+  .custom-p{
+    color: #6C6C6C;
+  }
+  .header-color{
+      color: #E76F51;
   }
