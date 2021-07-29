@@ -6,6 +6,8 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+/* Custom CSS */
+
 .purchase-btn{
     background-color: #E76F51;
     color: white;
@@ -31,3 +33,4 @@ body{
   .header-color{
       color: #E76F51;
   }
+  
